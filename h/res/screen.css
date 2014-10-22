@@ -1,0 +1,33 @@
+body
+{
+	padding-bottom: 10em
+}
+
+header
+{
+	background-color: #fff;
+	position: fixed;
+	top: 0;
+	width: 100%
+}
+
+footer
+{
+	background: no-repeat scroll right bottom;
+	background-image: linear-gradient(0deg, #000 25%, rgba(0, 0, 0, 0) 100%);
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin-left: inherit
+}
+
+.section:target
+{
+	padding-top: 10em
+}
+
+#boiler
+{
+	padding-top: 10em
+}
