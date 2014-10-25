@@ -30,12 +30,12 @@ a
 
 hr
 {
-	border: 1px solid gray
+	border: 1px solid white
 }
 
 p, table
 {
-	border-left: 2px solid gray;
+	border-left: 2px solid white;
 	padding-left: 1em
 }
 
@@ -46,7 +46,7 @@ table
 
 th
 {
-	border-bottom: 2px solid lightgray;
+	border-bottom: 2px solid white;
 	text-align: left
 }
 
